@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HamburgerChallenge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HamburgerChallenge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
